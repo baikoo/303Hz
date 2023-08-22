@@ -1,9 +1,9 @@
 # 303 Hz (Demo version)
 
-##Description
+## Description
 Welcome to our project! This is a demo Webpage of the music school 303Hz, which was made in Javascript and the JQuery framework. It allows users to get know the info about the school, search certain courses, buy them or book them. With this Website, users can effortlessly manage their courses on their profile, helping them to learn new skills in music world. We hope you enjoy and we look forward to your contributions!
 
-##Contributing
+## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
 
 1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
@@ -11,7 +11,7 @@ We welcome any and all contributions! Here are some ways you can get started:
 3. Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!Instructions
 4. Documentation: If you see the need for some additional documentation, feel free to add some!
 
-##Instructions
+## Instructions
 1. Fork this repository
 2. Clone the forked repository
 3. Add your contributions (code or documentation)
